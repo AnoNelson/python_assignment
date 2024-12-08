@@ -2,6 +2,11 @@
 ---
 ## Assignment presentation
 
+#### Group 3 MEMBERS
+- GIRAMAHORO Sandrine: 223028220
+- ISHIMWE Nelson: 223026666
+- NKUNDIMANA Jean Claude: 214002796
+
 ### Purpose of the project 
 The purpose of this project is to build a robust hospital management system that integrates with Authentication and Logging,
 Distributed Data Processing and Kafka for asynchronous messaging
