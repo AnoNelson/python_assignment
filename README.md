@@ -32,7 +32,7 @@ Distributed Data Processing and Kafka for asynchronous messaging
 ---
 
 ## VIDEO LINK
-- DA
+- link: https://drive.google.com/file/d/1TZTWi5tZp3k-SkWjV6NyrmtYplrvC-yh/view?usp=sharing
 
 ## HOW TO RUN THIS PROJECT
 - Install Python (Don't Forget to Tick Add to Path while installing Python)
